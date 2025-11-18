@@ -18,7 +18,7 @@ bigdata-labs/
 │   ├── pom.xml  
 │   ├── src/...  
 │   └── README.md          # Lab-specific guide  
-├── README.md 
+
 ```  
 
 ---
