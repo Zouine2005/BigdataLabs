@@ -14,15 +14,11 @@ This repository is your one-stop resource for practical, step-by-step labs in Bi
 ```
 bigdata-labs/  
 ├── README.md              # This file – start here!  
-├── lab1-hdfs/             # Lab 1: HDFS Programming (Java API)  
+├── lab1/             # Lab 1: HDFS Programming (Java API)  
 │   ├── pom.xml  
 │   ├── src/...  
 │   └── README.md          # Lab-specific guide  
-├── lab2-spark/            # Lab 2: Spark Basics (coming soon)  
-├── lab3-mapreduce/        # Lab 3: MapReduce Jobs  
-├── docker-compose.yml     # Shared Docker setup for all labs  
-├── shared_volume/         # Shared folder for host-container file exchange  
-└── resources/             # Sample data files, scripts, etc.  
+├── README.md 
 ```  
 
 ---
